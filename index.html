@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Recursive:wght@600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <title>Germanikus</title>
+</head>
+<body>
+
+    <!-- Custom dialog box START -->
+    <div class="dialog-box">
+
+    <div class="box-content">
+        <span class="material-icons close">close</span>
+        <p class="box-content-text">Text copied to clipboard succesfully!</p>
+    </div>
+
+</div>
+    <!-- Custom dialog box END -->
+
+    <!-- Main page content START-->
+    <div class="container">
+
+        <div class="header">
+            <h2>Germanikus</h2>
+            <p>v0.1</p>
+            <span class="material-icons dark-theme-on " style="display: block; float: right;">
+                invert_colors
+            </span>
+            <span class="material-icons dark-theme-off " style="display: none; float: none;">
+                invert_colors_off
+            </span>
+        </div>
+
+        <hr size='0.1rem' color='black' width='100%' noshade>
+
+        <div class="input">
+            <h2>Enter message to encrypt here:</h2>
+            <textarea class="encrypt-input" rows="4" cols="30" placeholder="Type something to encrypt"></textarea>
+            <input type="button" value="Encrypt" class="encrypt-btn">
+        </div>
+
+        <div class="copy">
+            <h2>Copy encrypted message here:</h2>
+            <textarea class="copy-text" rows="4" cols="30" placeholder="Copy encrypted message" readonly></textarea>
+            <input type="button" value="Copy" class="copy-btn">
+        </div>
+
+        <div class='footer'>
+            <span>Made by <a href='#'>Nikola</a></span>
+            <span class='noflex'>message</span>
+        </div>
+
+    </div>
+    <!-- Main page content END -->
+
+    <script src="dark.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>

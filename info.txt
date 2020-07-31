@@ -1,0 +1,26 @@
+/////////////////////////////////////////////////////////////////////////////// English ///////////////////////////////////////////////////////////////////////////////
+Germanikus is an old encryption which was used for sending messages so that only people with the key can read it.
+
+Messages are encrypted by changing specific letters to numbers -  one number changes one letter - example: A=4.
+
+There are some encryptions that are very complex, when letters are changed by other letters or symbols... That kind of encryption is used in war or in business.
+
+For decrypting a Germanikus encryption a key is needed.
+
+Key looks something like this:
+G=0, E=1, R=2, M=3, A=4, N=5, I=6, K=7, U=8, S=9.
+Rest of the letters in a phrase are normal.
+
+/////////////////////////////////////////////////////////////////////////////// Serbian ///////////////////////////////////////////////////////////////////////////////
+Germanikus je jedna stara šifra koja se koristi kod slanja poruka tako da niko drugi ne može otkriti šta je napisano osim onoga s kim je šifra dogovorena.
+
+Poruke se uglavnom šifriraju tako da se slova zamene određenim brojevima – jedan broj zamenjuje jedno slovo – naprimer: A=4.
+
+Postoje šifre koje su jako složene, kada se slova zamenjuju drugim slovima, simbolima, premeću se ili menjaju mesta u određenoj poruci. Takve komplikovane šifre koriste se u ratovima ili poslovnom svetu.
+
+Za dešifriranje šifre potreban je ključ.
+
+Ključ u GERMANIKUSU izgleda ovako:
+G=0, E=1, R=2, M=3, A=4, N=5, I=6, K=7, U=8, S=9.
+Ostala slova u recenici su normalna.
+
