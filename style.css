@@ -80,14 +80,11 @@ textarea {
 
 .footer span a {
     color: rgb(92, 92, 92);
+    text-decoration: none;
 }
 
 .footer span a:hover {
     color: rgb(43, 42, 42);
-}
-
-.footer .noflex {
-    text-align: right;
 }
 
 /* Custom Dialog Style */
